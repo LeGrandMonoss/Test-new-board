@@ -3,9 +3,9 @@
   [
     {
       "name": "Coeur-IOT",
-      "maintainer": "*",
-      "websiteURL": "*",
-      "email" : "*",
+      "maintainer": "A",
+      "websiteURL": "A",
+      "email" : "A@test.com",
       "platforms":
       [
         {
