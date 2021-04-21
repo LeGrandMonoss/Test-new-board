@@ -4,10 +4,10 @@
     {
       "name": "Coeur-IOT",
       "maintainer":"A",
-      "websireURL": "http://Test.fr",
+      "websiteURL": "http://Test.fr",
       "email": "a@test.com"
      
-      "plateform":
+      "plateforms":
       [
       {
         "name": "Coeur-IOT-01",
