@@ -1,0 +1,31 @@
+{
+  "package":[
+    {
+      "name: "coeuriot",
+      "maintainer:"A",
+      "websireURL": "http://Test.fr",
+      "email": "a@test.com"
+      
+    "plateforms":[
+      {
+        "name": "Coeur-IOT",
+        "achitecture": "nrf52",
+        "version":"0.1.0",
+        "category": "Contributed",
+        "url": "https://github.com/LeGrandMonoss/Test-new-board/blob/main/Coeur-IOT.zip",
+        "archiveFileName":"Coeur-IOT.zip",
+        "checksum": "",
+        "size":"20322",
+        "boards": [{"name":"Coeur-IOT"}],
+        "toolDependencies":[
+          {
+              "name": "gcc-arm-none-eabi",
+              "packager": "adafruit",
+              "version": "5_2-2015q4"
+           }
+         ]
+      },
+  "tools": []
+    }
+  ]
+}
