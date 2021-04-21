@@ -7,7 +7,7 @@
       "websireURL": "http://Test.fr",
       "email": "a@test.com"
      
-      "plateforms":
+      "plateform":
       [
       {
         "name": "Coeur-IOT-01",
