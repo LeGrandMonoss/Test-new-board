@@ -6,13 +6,12 @@
       "maintainer":"A",
       "websiteURL": "http://Test.fr",
       "email": "a@test.com"
-     
       "plateforms":
       [
-      {
+        {
         "name": "Coeur-IOT-01",
         "achitecture": "nrf52",
-        "version":"0.1.0",
+        "version": "0.1.0",
         "category": "Contributed",
         "url": "https://github.com/LeGrandMonoss/Test-new-board/blob/main/Coeur-IOT.zip?raw=true",
         "archiveFileName":"Coeur-IOT.zip",
@@ -31,7 +30,8 @@
               "version": "9.4.0"
             }
           ]
-        },
+        }
+    ],
   "tools":[]
     
   ]
