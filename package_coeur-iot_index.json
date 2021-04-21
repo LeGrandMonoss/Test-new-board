@@ -1,12 +1,13 @@
 {
   "package":[
     {
-      "name: "Coeur-IOT",
-      "maintainer:"A",
+      "name": "Coeur-IOT",
+      "maintainer":"A",
       "websireURL": "http://Test.fr",
       "email": "a@test.com"
       
-    "plateforms":[
+    "plateforms":
+      [
       {
         "name": "Coeur-IOT",
         "achitecture": "nrf52",
