@@ -2,8 +2,7 @@
   "packages":
   [
     {
-       "tools"
-      [
+       "tools": [
       "name": "Coeur-IOT",
       "maintainer": "A",
       "websiteURL": "A",
