@@ -10,7 +10,7 @@
       [
         {
           "name": "Coeur-IOT",
-          "architecture": "NRF52",
+          "architecture": "nrf52",
           "version": "0.1.0",
           "category": "Contributed",
           "url": "https://github.com/LeGrandMonoss/Test-new-board/blob/main/package_C%C5%93ur-IOT_index.json",
