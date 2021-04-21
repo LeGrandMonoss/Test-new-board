@@ -13,7 +13,7 @@
           "architecture": "nrf52",
           "version": "0.1.0",
           "category": "Contributed",
-          "url": "https://github.com/LeGrandMonoss/Test-new-board/blob/main/package_C%C5%93ur-IOT_index.json",
+          "url": "https://github.com/LeGrandMonoss/Test-new-board/blob/main/package_CoeurIOT_index.json",
           "archiveFileName": "Coeur-IOT.zip",
           "checksum": "SHA-256:e6a4c0b37a90a922777556d3af04c0396d9fc7fc47dfa5220f3d3da2410a3bf1",
           "size": "20322",
@@ -24,34 +24,14 @@
           ],
           "toolsDependencies":
           [
-            {
-              "packager": "arduino",
-              "name": "arm-none-eabi-gcc",
-              "version": "7-2017q4"
-            },
-            {
-              "packager": "arduino",
-              "name": "bossac",
-              "version": "1.8.0-48-gb176eee"
-            },
-            {
-              "packager": "arduino",
-              "name": "openocd",
-              "version": "0.10.0-arduino9"
-            },
-            {
-              "packager": "arduino",
-              "name": "CMSIS",
-              "version": "4.5.0"
-            },
-            {
-              "packager": "arduino",
-              "name": "CMSIS-Atmel",
-              "version": "1.2.0"
+          {
+              "name": "gcc-arm-none-eabi",
+              "packager": "adafruit",
+              "version": "5_2-2015q4"
             }
-          ]
+          ],
+          "size": "15086006"
         }
-      ],
       "tools":
       [
       ]
