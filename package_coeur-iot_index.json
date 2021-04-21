@@ -18,13 +18,18 @@
         "size":"20322",
         "boards": [{"name":"Coeur-IOT"}],
         "toolDependencies":[
-          {
-              "name": "gcc-arm-none-eabi",
+            {
               "packager": "adafruit",
+              "name": "gcc-arm-none-eabi",
               "version": "5_2-2015q4"
-           }
-         ]
-      },
+            },
+            {
+              "packager": "adafruit",
+              "name": "nrfjprog",
+              "version": "9.4.0"
+            }
+          ]
+        },
   "tools": []
     }
   ]
