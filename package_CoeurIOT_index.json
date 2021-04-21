@@ -2,6 +2,8 @@
   "packages":
   [
     {
+       "tools"
+      [
       "name": "Coeur-IOT",
       "maintainer": "A",
       "websiteURL": "A",
@@ -32,8 +34,7 @@
           ],
           "size": "15086006"
         }
-      "tools"
-      [
+     
       ]
   ]
 }
