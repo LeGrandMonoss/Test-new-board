@@ -15,8 +15,8 @@
         "category": "Contributed",
         "url": "https://github.com/LeGrandMonoss/Test-new-board/blob/main/Coeur-IOT.zip?raw=true",
         "archiveFileName":"Coeur-IOT.zip",
-        "checksum": "SHA-256:C99E5656BB310A58C8D9CF733BE999C9BB3B8C39F834230ED29E66194B76FED5",// Get-FileHash C:\Users\Stagiairebe\Documents\Arduino\hardware\Coeur-IOT.zip -Algorithm SHA256 |Format-List
-        "size":"18657165", //mettre à jour avec la taille du fichier Coeur-IOT.zip
+        "checksum": "SHA-256:C99E5656BB310A58C8D9CF733BE999C9BB3B8C39F834230ED29E66194B76FED5",
+        "size":"18657165", 
         "boards": [{"name":"Coeur-IOT"}],
         "toolsDependencies":[
             {
