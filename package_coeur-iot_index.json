@@ -16,7 +16,10 @@
         "url": "https://github.com/LeGrandMonoss/Test-new-board/raw/main/Coeur-IOT.zip",
         "archiveFileName":"Coeur-IOT.zip",
         "checksum": "SHA-256:C99E5656BB310A58C8D9CF733BE999C9BB3B8C39F834230ED29E66194B76FED5",
-        "size":"18657165", 
+        "help": {
+            "online": "https://forums.adafruit.com"
+          },
+         "size":"18657165", 
         "boards": [
           {
             "name":"Coeur-IOT"
