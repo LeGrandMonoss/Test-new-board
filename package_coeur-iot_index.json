@@ -15,8 +15,8 @@
         "category": "Contributed",
         "url": "https://github.com/LeGrandMonoss/Test-new-board/raw/main/Coeur-IOT.zip",
         "archiveFileName":"Coeur-IOT.zip",
-        "checksum": "SHA-256:A2F3FA6B3E2DBB14D8C0F4D177259BA50ECE4E1948124E37F34502AED2C76B9A",
-         "size":"18703065", 
+        "checksum": "SHA-256:E6D634BEA544411024E63FBEDB2A524B2B7763AEED8C6FC19CAC1EC7EA1E77A0",
+         "size":"18653877", 
         "boards": [
           {
             "name":"Coeur-IOT"
