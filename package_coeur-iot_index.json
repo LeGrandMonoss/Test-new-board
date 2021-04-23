@@ -3,9 +3,9 @@
   [
     {
       "name": "CoeurIOT",
-      "maintainer":"A",
-      "websiteURL": "http://Test.fr",
-      "email": "test@gmail.com",
+      "maintainer":"Robintics Masters",
+      "websiteURL": "https://robodticsmasters.co",
+      "email": "techsupport@robosticsmasters.co",
       "plateforms":
       [
         {
@@ -16,7 +16,7 @@
         "url": "https://github.com/LeGrandMonoss/Test-new-board/raw/main/Coeur-IOT.zip",
         "archiveFileName":"Coeur-IOT.zip",
         "checksum": "SHA-256:E6D634BEA544411024E63FBEDB2A524B2B7763AEED8C6FC19CAC1EC7EA1E77A0",
-         "size":"18 653 877", 
+         "size":"18653877", 
         "boards": [
           {
             "name":"Coeur-IOT"
