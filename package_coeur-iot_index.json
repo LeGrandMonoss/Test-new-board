@@ -15,11 +15,11 @@
         "category": "Contributed",
         "url": "https://github.com/LeGrandMonoss/Test-new-board/raw/main/Coeur-IOT.zip",
         "archiveFileName":"Coeur-IOT.zip",
-        "checksum": "SHA-256:C99E5656BB310A58C8D9CF733BE999C9BB3B8C39F834230ED29E66194B76FED5",
+        "checksum": "SHA-256:66EF1A2D3E37AC8C697146E12B7789C18C51EA476C320ACF8387629E3E8D7F4D",
         "help": {
-            "online": "https://forums.adafruit.com"
+            "online": "http://google.com"
           },
-         "size":"18657165", 
+         "size":"168395274", 
         "boards": [
           {
             "name":"Coeur-IOT"
