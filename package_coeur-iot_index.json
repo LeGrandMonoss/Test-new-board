@@ -9,7 +9,7 @@
       "plateforms":
       [
         {
-        "name": "Coeur-IOT Board",
+        "name": "Coeur-IOT (nrf52)",
         "achitecture": "nrf52",
         "version": "0.1.0",
         "category": "Contributed",
