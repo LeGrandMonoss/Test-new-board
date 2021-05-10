@@ -1,0 +1,42 @@
+{
+  "packages":
+  [
+    {
+      "name": "CoeurIOT",
+      "maintainer":"ETS JAUNET",
+      "websiteURL": "https://Test.com",
+      "email": "test@etsjaunet.com",
+      "plateforms":
+      [
+        {
+        "name": "Coeur-IOT (nrf52)",
+        "achitecture": "nrf52",
+        "version": "0.1.0",
+        "category": "Contributed",
+        "url": "https://github.com/LeGrandMonoss/Test-new-board/raw/main/Coeur-IOT.zip",
+        "archiveFileName":"0.1.0.zip",
+        "checksum": "SHA-256:17116EB07938DC086ABE1175AFBC5C44EA20A03773A40F22D3AB629C9C2EC4A5",
+         "size":"18622893", 
+        "boards": [
+          {
+            "name":"Coeur-IOT"
+          }
+        ],
+        "toolsDependencies":[
+            {
+              "packager": "adafruit",
+              "name": "gcc-arm-none-eabi",
+              "version": "5_2-2015q4"
+            },
+            {
+              "packager": "adafruit",
+              "name": "nrfjprog",
+              "version": "9.4.0"
+            }
+          ]
+        }
+    ],
+   "tools": []
+    }
+  ]
+}
