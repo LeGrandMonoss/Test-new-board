@@ -25,8 +25,8 @@
         "toolsDependencies":[
             {
               "packager": "adafruit",
-              "name": "gcc-arm-none-eabi",
-              "version": "5_2-2015q4"
+              "name": "arm-none-eabi-gcc",
+              "version": "9-2019q4"
             },
             {
               "packager": "adafruit",
