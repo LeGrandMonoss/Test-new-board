@@ -2,7 +2,7 @@
   "packages":
   [
     {
-      "name": "CoeurIOT",
+      "name": "coeuriot",
       "maintainer":"ETS JAUNET",
       "websiteURL": "https://Test.com",
       "email": "test@etsjaunet.com",
